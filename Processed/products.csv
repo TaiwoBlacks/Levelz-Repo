@@ -1,0 +1,124 @@
+Product_ID,Product_Category,Product_Brand,Product_Type
+1,Clothing,Nike,Shorts
+2,Electronics,Samsung,Tablet
+3,Books,Penguin Books,Children's
+4,Home Decor,Home Depot,Tools
+5,Grocery,Nestle,Chocolate
+6,Electronics,Apple,Tablet
+7,Electronics,Samsung,Television
+8,Clothing,Zara,Shirt
+9,Home Decor,Home Depot,Decorations
+10,Books,Random House,Non-Fiction
+11,Grocery,Coca-Cola,Water
+12,Grocery,Nestle,Snacks
+13,Clothing,Adidas,T-shirt
+14,Books,Random House,Literature
+15,Grocery,Pepsi,Water
+16,Grocery,Coca-Cola,Juice
+17,Home Decor,IKEA,Furniture
+18,Grocery,Nestle,Coffee
+19,Books,HarperCollins,Non-Fiction
+20,Books,Penguin Books,Non-Fiction
+21,Home Decor,Bed Bath & Beyond,Bathroom
+22,Home Decor,Bed Bath & Beyond,Kitchen
+23,Electronics,Samsung,Smartphone
+24,Clothing,Adidas,Shoes
+25,Books,HarperCollins,Thriller
+26,Home Decor,IKEA,Decorations
+27,Grocery,Pepsi,Soft Drink
+28,Electronics,Apple,Laptop
+29,Clothing,Zara,Dress
+30,Electronics,Sony,Headphones
+31,Home Decor,IKEA,Lighting
+32,Home Decor,Bed Bath & Beyond,Bedding
+33,Clothing,Adidas,Jacket
+34,Home Decor,Home Depot,Furniture
+35,Clothing,Nike,Shoes
+36,Grocery,Coca-Cola,Soft Drink
+37,Grocery,Pepsi,Juice
+38,Electronics,Sony,Smartphone
+39,Electronics,Sony,Television
+40,Books,Penguin Books,Fiction
+41,Books,Random House,Fiction
+42,Electronics,Apple,Smartphone
+43,Clothing,Zara,Jeans
+44,Books,HarperCollins,Fiction
+45,Clothing,Nike,T-shirt
+46,,Nestle,Chocolate
+47,,HarperCollins,Non-Fiction
+48,Home Decor,,Furniture
+49,Books,,Non-Fiction
+50,Home Decor,,Bathroom
+51,,Samsung,Television
+52,,Adidas,Jacket
+53,,Home Depot,Decorations
+54,,Apple,Tablet
+55,,Zara,Dress
+56,,Nike,Shoes
+57,,Pepsi,Water
+58,Clothing,,Shoes
+59,,Random House,Non-Fiction
+60,Electronics,,Laptop
+61,Home Decor,,Bedding
+62,,Bed Bath & Beyond,Bathroom
+63,,IKEA,Furniture
+64,,Zara,Shirt
+65,,IKEA,Lighting
+66,Books,,Children's
+67,,Samsung,Smartphone
+68,Grocery,,Soft Drink
+69,Clothing,,Dress
+70,Home Decor,,Kitchen
+71,Electronics,,Tablet
+72,,Coca-Cola,Juice
+73,,Apple,Laptop
+74,Books,,Thriller
+75,,Home Depot,Tools
+76,,Bed Bath & Beyond,Bedding
+77,,Nestle,Snacks
+78,,HarperCollins,Fiction
+79,,HarperCollins,Thriller
+80,,Nike,Shorts
+81,Books,,Literature
+82,Electronics,,Television
+83,Clothing,,Shirt
+84,Electronics,,Smartphone
+85,,Zara,Jeans
+86,Grocery,,Snacks
+87,Clothing,,T-shirt
+88,Home Decor,,Decorations
+89,,Apple,Smartphone
+90,Electronics,,Headphones
+91,Books,,Fiction
+92,,Coca-Cola,Water
+93,Home Decor,,Lighting
+94,,Adidas,Shoes
+95,Grocery,,Water
+96,,Nestle,Coffee
+97,Clothing,,Shorts
+98,Grocery,,Juice
+99,,Sony,Smartphone
+100,,Coca-Cola,Soft Drink
+101,,IKEA,Decorations
+102,,Penguin Books,Fiction
+103,,Nike,T-shirt
+104,,Sony,Television
+105,Clothing,,Jacket
+106,,Samsung,Tablet
+107,,Pepsi,Juice
+108,,Adidas,T-shirt
+109,Grocery,,Coffee
+110,Home Decor,,Tools
+111,Clothing,,Jeans
+112,,Sony,Headphones
+113,,Random House,Literature
+114,,Random House,Fiction
+115,,Home Depot,Furniture
+116,,Pepsi,Soft Drink
+117,,Penguin Books,Non-Fiction
+118,Electronics,Whirepool,Fridge
+119,Grocery,,Chocolate
+120,,Bed Bath & Beyond,Kitchen
+121,,Penguin Books,Children's
+122,Electronics,Mitsubhisi,Mitsubishi 1.5 Ton 3 Star Split AC
+123,Electronics,BlueStar,BlueStar AC
